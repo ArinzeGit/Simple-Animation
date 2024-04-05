@@ -5,6 +5,7 @@ This project contains a monster face that moves left and right in a canvas eleme
 * Ensure you have a modern web browser installed
 * Open the index.html file in your web browser
 * The project should now be visible in your browser
+* You can also visit the live site URL [here](https://arinzegit.github.io/Simple-Animation/)
 ## Technologies used
 * HTML
 * CSS
