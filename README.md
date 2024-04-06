@@ -1,4 +1,5 @@
 # Simple Animation
+![](assets/SimpleAnimationScreenshot.PNG)
 ## Context and Description
 This project contains a monster face that moves left and right in a canvas element, changing direction when it hits the canvas boundaries. I did this project to practice basic animation using the HTML Canvas element.
 ## How to run
